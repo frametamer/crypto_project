@@ -352,7 +352,7 @@ export default function About(props) {
               </Button>
 
               <IconButton
-                href="https://github.com/sh-dv/hat.sh"
+                href="https://github.com/frametamer/crypto_project"
                 target="_blank"
                 rel="noopener"
               >
