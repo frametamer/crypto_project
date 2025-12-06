@@ -80,23 +80,6 @@ npm run build
 npm start
 ```
 
-### Docker
-
-```bash
-docker-compose up
-```
-
-## 🌐 Совместимость с браузерами
-
-Проект поддерживает последние две версии всех основных браузеров:
-
-- **Chrome** на Windows, macOS, Linux, Android
-- **Firefox** на Windows, macOS, Linux
-- **Safari** на iOS и macOS
-- **Edge** на Windows
-
-> ⚠️ Safari и мобильные браузеры ограничены файлами размером до 1GB из-за отсутствия поддержки server-worker fetch API.
-
 ## 📝 Структура проекта
 
 ```
@@ -130,44 +113,3 @@ npm run cypress:open
 # Headless режим
 npm run cypress:run
 ```
-
-## 🌍 Локализация
-
-Проект поддерживает множество языков:
-- Русский (ru_RU)
-- Английский (en_US)
-- Немецкий (de_DE)
-- Французский (fr_FR)
-- Испанский (es_ES)
-- Итальянский (it_IT)
-- Японский (ja_JP)
-- Китайский (zh_CN)
-- И другие...
-
-## 📄 Лицензия
-
-Этот проект распространяется под лицензией MIT. См. файл [LICENSE](LICENSE) для подробностей.
-
-## 👥 Команда разработчиков
-
-- **frametamer** - Разработка и архитектура
-  - GitHub: [@frametamer](https://github.com/frametamer)
-
-## 🙏 Благодарности
-
-Мы благодарим создателей и сообщества следующих проектов:
-
-- [libsodium.js](https://github.com/jedisct1/libsodium.js) - за отличную криптографическую библиотеку
-- [Next.js](https://nextjs.org/) - за мощный React фреймворк
-- [Material-UI](https://material-ui.com/) - за качественные UI компоненты
-- Всем контрибьюторам и пользователям проекта
-
-## 📞 Контакты
-
-Если у вас есть вопросы или предложения, создайте [Issue](https://github.com/frametamer/crypto_project/issues) в репозитории.
-
----
-
-<div align="center">
-  <p>Сделано с ❤️ командой разработчиков</p>
-</div>
